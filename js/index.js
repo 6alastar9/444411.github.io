@@ -166,7 +166,7 @@ var Clock = (function() {
         }, 
         press = false, 
         quiver = true, 
-        texts = ["ФЫР ФЫР."],
+        texts = ["СКУЧНО."],
         
         text = texts[0],
         textNum = 0,
